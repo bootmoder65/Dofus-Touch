@@ -241,4 +241,4 @@ Dofus Touch is the full free version of the game with all features and updates i
 Ready to embark on your adventure? Download Dofus Touch now and join a world of excitement!
 
 ---
-**Last updated:** 2026-09-19 16:18:37 UTC
+**Last updated:** 2026-09-19 19:12:39 UTC
